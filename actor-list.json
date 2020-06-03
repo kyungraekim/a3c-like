@@ -1,0 +1,27 @@
+[
+    {
+        "host": "localhost",
+        "port": 38080,
+        "total_steps": 10
+    },
+    {
+        "host": "localhost",
+        "port": 38081,
+        "total_steps": 10
+    },
+    {
+        "host": "localhost",
+        "port": 38082,
+        "total_steps": 10
+    },
+    {
+        "host": "localhost",
+        "port": 38083,
+        "total_steps": 10
+    },
+    {
+        "host": "localhost",
+        "port": 38084,
+        "total_steps": 10
+    }
+]
