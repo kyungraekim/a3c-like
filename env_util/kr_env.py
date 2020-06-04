@@ -72,4 +72,5 @@ def concurrent_run():
     print(tt() - a)
 
 
-concurrent_run()
+if __name__ == '__main__':
+    concurrent_run()
